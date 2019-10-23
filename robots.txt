@@ -1,7 +1,0 @@
-#
-# robots.txt
-#
-User-agent: *
-Allow: /
-
-Sitemap: https://fabiohenriq90.github.io/sitemap.xml
